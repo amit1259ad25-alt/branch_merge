@@ -1,1 +1,1 @@
-console.log("different conflict");
+console.log("feature_1");
