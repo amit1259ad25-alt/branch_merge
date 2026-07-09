@@ -1,1 +1,1 @@
-console.logI("feature 1.1 added");
+console.logI("feature 1.2 added");
